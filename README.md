@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sidharth-kumar-a81a771bb?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3blbjugvzqq7gucnsflqg7iw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sidharth-kumar-a81a771bb?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3blbjugvzqq7gucnsflqg7iw%3d%3d" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://https://www.linkedin.com/in/sidharth-kumar-a81a771bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sidharth-kumar-a81a771bb?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3blbjugvzqq7gucnsflqg7iw%3d%3d" height="30" width="40" /></a>
 <a href="https://leetcode.com/Sidharthkrsharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="Sidharthkrsharma" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/@siddharthkumars1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@siddharthkumars1" height="30" width="40" /></a>
 </p>
