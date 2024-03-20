@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Nodejs, Flutter , React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sidharthkrsharma](https://github.com/Sidharthkrsharma)
+- 👨‍💻 All of my projects are available at https://portfolio-chi-two-22.vercel.app/
 
 - 📫 How to reach me **https://t.me/userisnotactive**
 
