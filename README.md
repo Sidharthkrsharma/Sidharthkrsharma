@@ -11,7 +11,8 @@
 
 - 👨‍💻 All of my projects are available at https://portfolio-sidharthkrsharmas-projects.vercel.app/
 
-- 📫 How to reach me **https://t.me/userisnotactive**
+- 📫 How to reach me 
+siddharthkumarsharma31@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
